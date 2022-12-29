@@ -7,9 +7,13 @@
 ## Education
 
 - Korea Institute of Science and Technology (2018 Spring ~ )
+
   - B.S Double Major in Electrical Engineering and Computer Science
+  <details>
   <summary>Coursework</summary>
+
   - GPA Total: 3.95/4.3, EE Major: 4.08/4.3, CS Major: 3.85/4.3
+  </details>
 
 ## English Proficiency
 

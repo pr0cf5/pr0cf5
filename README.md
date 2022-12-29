@@ -2,13 +2,14 @@
 
 - Name: Woosun Song
 - Contact: wireless@kaist.ac.kr
-- Twitter: @pr0cf51
+- Twitter: [@pr0cf51](https://twitter.com/pr0cf51)
 
 ## Education
 
 - Korea Institute of Science and Technology (2018 Spring ~ )
   - B.S Double Major in Electrical Engineering and Computer Science
-  - GPA Total: 3.95/4.3, EE MAjor: 4.08/4.3, CS Major: 3.85/4.3
+  <summary>Coursework</summary>
+  - GPA Total: 3.95/4.3, EE Major: 4.08/4.3, CS Major: 3.85/4.3
 
 ## English Proficiency
 
